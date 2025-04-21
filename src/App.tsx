@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 
 function shuffle(arr: string[]) {
 	const copy = []
